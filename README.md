@@ -2,7 +2,7 @@
 
  Python program that generates a random password of a specified length:
  
-#Here's how the program works:
+ Here's how the program works:
 
     We import the random and string modules. random will be used to generate random characters, and string will be used to define the set of characters to choose from.
     We define a function generate_password() that takes a single argument length indicating the desired length of the password.
